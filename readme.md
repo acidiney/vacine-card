@@ -2,7 +2,7 @@
 	Registrar individualmente dados de vacinação de todos os residentes em um determinado país
 
 ##	Resumo
-A ideia do projecto consiste na criação de um sistema de cartões de vacina que para além de permitir que novos usuários sejam cadastrados.
+A ideia do projecto consiste na criação de um sistema de cartões de vacina que para além de permitir que novos usuários sejam cadastrados possa-se recuperar informações dos usuários já cadastrados.
 
 ## Objectivos específicos
 
