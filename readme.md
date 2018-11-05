@@ -11,7 +11,7 @@ A ideia do projecto consiste na criação de um sistema de cartões de vacina qu
 - Ser o único meio de transmissão de dados de vacinação para o Programa Nacional de Imunizações;
 ## Público-alvo
 - Salas de vacina de todo o país onde serão vacinadas todas as pessoas do país;
-- Qualquer interessado em dados de imunização com as devidas permissões poderá ter acesso a relatórios consistentes sobre as pessoas vacinadas para qualquer vacina;
+- Qualquer interessado em dados de imunização com as devidas permissões poderá ter acesso a relatórios consistentes sobre as pessoas vacinadas e sobre qualquer vacina;
 
 ## Funções
 
