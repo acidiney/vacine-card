@@ -15,7 +15,7 @@ A ideia do projecto consiste na criação de um sistema de cartões de vacina qu
 
 ## Funções
 
-### Pessoais
+### Pessoas
 
 - Ver informações sobre as vacinas que a pessoa possui
 - Ver lista de parentes ( No caso se for pai de um menor poderá ter informações sobre as vacinas da/as criança/as )
