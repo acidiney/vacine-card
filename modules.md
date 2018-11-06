@@ -30,7 +30,7 @@ Todo aquele individuo que possui autorização do Programa Nacional de Imunizaç
 
 - Adicionar um novo paciente
 - Adicionar um outro membro a família ( No caso pode de ser um menor o registo é aceite, porém no caso de ser alguém que possua uma conta, a pessoa precisa confirmar )
-- ==( Avaliando esse sub ainda ) ==Aceitar o pedido de confirmação do vacinador ( Para que o vacinador possa adicionar a nova vacina que o individuo recebeu )
+- ( Avaliando esse sub ainda ) Aceitar o pedido de confirmação do vacinador ( Para que o vacinador possa adicionar a nova vacina que o individuo recebeu )
 - Emissão de seu dados ( Caso seja necessário )
 - Emitir informações sobre novas vácinas podendo ser ministradas, assim como altera as informações do seu perfil sobre vacinas que ministra
 - Consultar vacinas de um paciente
