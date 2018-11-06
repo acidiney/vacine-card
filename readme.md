@@ -1,6 +1,9 @@
 # Vacine Card ( Cartão de vacina )
 	Registrar individualmente dados de vacinação de todos os residentes em um determinado país
 
+### Links
+- [Módulos](modules.md)
+
 ##	Resumo
 A ideia do projecto consiste na criação de um sistema de cartões de vacina que para além de permitir que novos usuários sejam cadastrados possa-se recuperar informações dos usuários já cadastrados.
 
@@ -23,7 +26,7 @@ A ideia do projecto consiste na criação de um sistema de cartões de vacina qu
 - Alertas sobre as vacinas em atraso
 - Ver locais onde pode apanhar uma determinada vacina
 
-### Doctor
+### Doutor
 
 - Ver lista de vacinas de um determinado paciente ( com a permissão do paciente )
 - Registar novas vácinas
